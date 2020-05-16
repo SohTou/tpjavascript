@@ -1,0 +1,40 @@
+
+
+#h1,
+#h2,
+#h3,
+#h4 {
+ 
+    color: black;
+   
+    font-size: 2.5em;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+}
+
+.container {
+    border: black 3px solid;
+    border-radius: 2%;
+    margin: auto;
+    width: 900px;
+    height: 600px;
+    background-image: url("./img");
+}
+
+#content{
+    width: 900px;
+    margin: auto;
+    background-color: goldenrod;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+hr{
+    width: 1000px;
+    border-top: teal dotted;
+}
+
+h1 {
+    text-align: center;
+}
